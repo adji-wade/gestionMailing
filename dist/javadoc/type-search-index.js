@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"view","l":"Accueil"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"sn.isi.dao","l":"BD"},{"p":"sn.isi.entities","l":"Client"},{"p":"sn.isi.dao","l":"ClientImp"},{"p":"view","l":"Edition"},{"p":"view","l":"Formulaire"},{"p":"sn.isi.dao","l":"IClient"},{"p":"main","l":"Main"},{"p":"view","l":"Recherche"}]
